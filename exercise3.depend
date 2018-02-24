@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517910864 source:d:\exercise\exercise3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
