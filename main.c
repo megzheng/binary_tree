@@ -173,7 +173,6 @@ int main()
         printf("no right child\n");
         }
     }
-
     }
     return 0;
 }
